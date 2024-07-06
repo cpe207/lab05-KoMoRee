@@ -1,4 +1,4 @@
-// define interface for Student object
+// อธิป พูลเขตวิทย์ 660610805
 interface Student{
   name: string;
   score: number;
